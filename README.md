@@ -8,6 +8,7 @@
 [![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-%232F3134?logo=threedotjs&logoColor=fff)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffff?logo=javascript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
