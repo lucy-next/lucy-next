@@ -10,7 +10,7 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-3178C6?logo=threedotjs&logoColor=fff)](#)
 <br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-ffff?logo=javascript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
