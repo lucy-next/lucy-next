@@ -1,5 +1,5 @@
 # About Me:
-🌷 I’m a 27 y.o. Girl (MtF) from Germany.</br>⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.
+🌷 I’m a 27 y.o. Girl from Germany.</br>⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.
 
 # Hidden Projects
 Some of my Projects are Private (like my Website) to keep Copycats away and keep a bit "unique-ness".</br>
