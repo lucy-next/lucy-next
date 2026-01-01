@@ -4,7 +4,7 @@
 # Hidden Projects
 Some Projects (like my Website) are Private, to keep Copycats away.</br>
 If you are an Employer wanting to evaluate the code-quality of My Website,</br>
-please reach out via Discord or E-mail (on my Website) with proof of legitimacy.
+please reach out via E-mail with proof of legitimacy.
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
