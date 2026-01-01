@@ -1,6 +1,10 @@
 # About Me:
 ⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.<br>🌸 I love to read Manga.<br>🕹️ I also play Switch 2 & Valorant.
 
+# Hidden Projects
+Some of my Projects are Private (like my Website) to keep Copycats away and keep a bit "unique-ness".</br>
+If you are an employer wanting to take a look at my Code, please reach out via Discord or E-mail (both on my Website).
+
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-%232F3134?logo=next.js&logoColor=white)](#)
@@ -8,6 +12,7 @@
 [![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
+[![Three.js](https://img.shields.io/badge/Three.js-3178C6?logo=threedotjs&logoColor=fff)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
