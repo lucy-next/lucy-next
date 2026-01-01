@@ -3,7 +3,7 @@
 
 # Hidden Projects
 Some of my Projects are Private (like my Website) to keep Copycats away and keep a bit "unique-ness".</br>
-If you are an employer wanting to take a look at my Code, please reach out via Discord or E-mail (both on my Website).
+If you are an Employer wanting to look at it, please reach out via Discord or E-mail (on my Website).
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
