@@ -2,9 +2,9 @@
 🌷 I’m a 27 y.o. (Trans) Girl from Germany.</br>⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.
 
 # Hidden Projects
-Some of my Projects are Private or (like my Website) to keep Copycats away.</br>
-If you are an Employer wanting to look at the code of My Website (most modern),</br>
-please reach out via Discord or E-mail (on my Website).
+Some Projects (like my Website) is Private, to keep Copycats away.</br>
+If you are an Employer wanting to look at the code of My Website,</br>
+please reach out via Discord or E-mail (on my Website) with proof ur legit.
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
