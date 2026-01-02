@@ -14,7 +14,6 @@
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-%232F3134?logo=next.js&logoColor=white)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 [![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -22,7 +21,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-3178C6?logo=threedotjs&logoColor=fff)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-%232F3134?logo=next.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 <br>
