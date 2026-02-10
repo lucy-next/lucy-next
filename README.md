@@ -13,7 +13,7 @@
 <br>
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Tanstack Router](https://img.shields.io/badge/Tanstack%20Router-teal?logo=tanstack&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 <br>
@@ -26,7 +26,6 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/unity-%232F3134.svg?style=flat&logo=unity&logoColor=white)](#)
 <br>
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
